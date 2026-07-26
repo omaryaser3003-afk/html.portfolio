@@ -1,0 +1,9 @@
+.container {
+    display: flex; }
+.container p { width: 50%;
+padding: 10px;}
+
+.box {
+    display: flex; }
+    .box p {width: 90%;
+        padding: 10px; }
